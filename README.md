@@ -24,7 +24,7 @@ Make sure that the model is located at the same directory of ***demo.ipynb*** or
 RESOURCES
 ------------
 
-Request access to the thesis, training data and the fine-tuned data using the link below: 
+Request access to the thesis and the fine-tuned models using the link below: 
 
 https://drive.google.com/drive/folders/1oJv8BYMO4_s6-FzUXzmFP2hIBY2plvWw?usp=sharing
 
