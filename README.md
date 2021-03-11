@@ -1,8 +1,5 @@
 # Formality Style Transfer with Pre-trained NLP Models
 
-INTRODUCTION
-------------
-
 Formality style transfer refers to the translation of text between formal and informal tones. Current solutions suffer greatly from the lack of corpus pairs, long training times and high computational requirements. While most literature explores the application from informal to formal language, this thesis focuses on the translation from formal to informal text with the goal of being applied for chatbot applications.
 
 This thesis aims to overcome the current challenges by leveraging the general language abilities of pre-trained Natural Language Processing (NLP) models, specifically, the
